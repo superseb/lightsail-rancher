@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -sSL https://get.docker.com/ | sh
+curl -sSL https://releases.rancher.com/install-docker/1.12.6.sh | sh
